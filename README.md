@@ -1,5 +1,7 @@
 # This is a markdown previewer
 
+## [Test now!](https://maxisan.github.io/markdown-prev/)
+
 This project is part of the *Front End Development Libraries* colection on [freecodecamp.org](https://www.freecodecamp.org/learn/front-end-libraries/)
 
 ### `How can you do?`

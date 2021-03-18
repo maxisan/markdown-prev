@@ -8,8 +8,7 @@ This project is part of the *Front End Development Libraries* colection on [free
 
 The project is a textbox in wich you can input free format text with Markdown and a view where you can preview it!
 
-Feel free to test and explore.
-And enjoy it!
+Feel free to test, explore and enjoy it!
 
 ### `What is Markdown?`
 

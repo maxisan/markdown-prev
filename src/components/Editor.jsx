@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import styled from 'styled-components';
 
 //Styled Component
@@ -16,7 +16,6 @@ const StyledEditor = styled.textarea`
 
 //React Component
 const Editor = ({onInputChange, textInput}) => {
-  console.log(onInputChange, textInput);
   return (
     <StyledEditor 
       id='editor'

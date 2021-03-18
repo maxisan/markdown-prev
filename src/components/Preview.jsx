@@ -21,12 +21,8 @@ const StyledPreview = styled.div`
 `
 
 export default function Preview({textInput}) {
-  console.log({textInput});
-  const plainText = textInput//.replace(/\n/g, '</br>');
-  console.log({plainText});
   const getMarkdownText = () => {
-    let rawMarkup = marked(plainText);
-    console.log(rawMarkup);
+    let rawMarkup = marked(textInput);
     return { __html: rawMarkup };
   }
 
